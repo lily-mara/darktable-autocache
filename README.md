@@ -39,6 +39,8 @@ Once enabled, the plugin should all but disappear into the background. As you
 import new images, the plugin will automatically run in the background, caching
 image previews and showing you a progress bar of the process.
 
+![screenshot of progress bars during import](./images/progress.png)
+
 ## Effects
 
 Enabling this plugin has very clear benefits and costs.
